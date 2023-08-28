@@ -1,5 +1,5 @@
 # FIFA-MONEYBALL
-In this we create a Database with the CSV information. 
+In this we create a Database in MySql with the CSV information. 
 Details about the dataset can be found here as well [https://www.kaggle.com/ekrembayar/fifa-21-complete-player-dataset?select=fifa21_male2.csv]
 
 This data set includes:
